@@ -11,7 +11,7 @@
 	<body>
 		<div align="center">
 			  <h2>Inavalid Username/Password</h2>
-			  <a style="text-decoration: underline; font-size:13px;" href="/UserLogin_And_ImageUpdation/">Back to Login page</a>
+			  <a style="text-decoration: underline; font-size:13px;" href="/ImageManagementUtility/">Back to Login page</a>
 		 </div>
 	</body>
 </html>
